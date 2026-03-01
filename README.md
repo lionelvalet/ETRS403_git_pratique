@@ -1,11 +1,11 @@
 # ETRS403_git_pratique
-jjjjjPour apprendre à utiliser git
+Pour apprendre à utiliser git
+Il faut pratiquer
 
 
 
 
-
-ffgg
+et pratiquer encore et encore ...
 
 
 
